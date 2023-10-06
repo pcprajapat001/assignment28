@@ -1,10 +1,11 @@
 import logo from "./logo.svg";
 import "./App.css";
 import React from "react";
-import { Shape } from "./components/Shape";
+import { Landing } from "./components/Landing";
+import { ProductList } from "./components/ProductList";
 
 function App() {
-  return <Shape />;
+  return <ProductList />;
 }
 
 export default App;

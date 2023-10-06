@@ -1,62 +1,27 @@
-export const Xs=[
-    {
-      xs:3,
-      clr:'red'
+export const Xs = [
+  {
+    xs: 2,
+    title: "Home",
+    path: "/",
   },
-    {
-      xs:4,
-      clr:'green'
+  {
+    xs: 2,
+    title: "Counter",
+    path: "counter",
   },
-    {
-      xs:2,
-      clr:'skyblue'
+  {
+    xs: 2,
+    title: "Product",
+    path: "product",
   },
-    {
-      xs:3,
-      clr:'red'
+  {
+    xs: 2,
+    title: "Service",
+    path: "service",
   },
-    {
-      xs:4,
-      clr:'green'
+  {
+    xs: 2,
+    title: "Contact",
+    path: "contact",
   },
-    {
-      xs:6,
-      clr:'pink'
-  },
-    {
-      xs:2,
-      clr:'skyblue'
-  },
-    {
-      xs:1,
-      clr:'yellow'
-  },
-    {
-      xs:3,
-      clr:'red'
-  },
-    {
-      xs:2,
-      clr:'skyblue'
-  },
-    {
-      xs:4,
-      clr:'green'
-  },
-    {
-      xs:2,
-      clr:'skyblue'
-  },
-    {
-      xs:12,
-      clr:'lightgreen'
-  },
-    {
-      xs:6,
-      clr:'pink'
-  },
-    {
-      xs:6,
-      clr:'pink'
-  },
-]
+];
